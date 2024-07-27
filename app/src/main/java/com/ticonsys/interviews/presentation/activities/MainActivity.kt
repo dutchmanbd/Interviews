@@ -11,7 +11,6 @@ import androidx.navigation.compose.rememberNavController
 import com.ramcosta.composedestinations.DestinationsNavHost
 import com.ticonsys.interviews.presentation.features.home.NavGraphs
 import com.ticonsys.interviews.presentation.theme.InterviewsTheme
-import com.ticonsys.interviews.util.rememberWindowInfo
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
